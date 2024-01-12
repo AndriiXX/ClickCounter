@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\bin\Debug\net8.0-windows\ClickCounter.exe
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\bin\Debug\net8.0-windows\ClickCounter.deps.json
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\bin\Debug\net8.0-windows\ClickCounter.runtimeconfig.json
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\bin\Debug\net8.0-windows\ClickCounter.dll
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\bin\Debug\net8.0-windows\ClickCounter.pdb
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\obj\Debug\net8.0-windows\ClickCounter.Form1.resources
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\obj\Debug\net8.0-windows\ClickCounter.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\obj\Debug\net8.0-windows\ClickCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\obj\Debug\net8.0-windows\ClickCounter.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\obj\Debug\net8.0-windows\ClickCounter.AssemblyInfo.cs
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\obj\Debug\net8.0-windows\ClickCounter.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\obj\Debug\net8.0-windows\ClickCounter.dll
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\obj\Debug\net8.0-windows\refint\ClickCounter.dll
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\obj\Debug\net8.0-windows\ClickCounter.pdb
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\obj\Debug\net8.0-windows\ClickCounter.genruntimeconfig.cache
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\obj\Debug\net8.0-windows\ref\ClickCounter.dll
+C:\Users\admin\source\repos\ClickCounter\ClickCounter\obj\Debug\net8.0-windows\ClickCounter.sourcelink.json
